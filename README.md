@@ -1,7 +1,7 @@
 # Nan-mudhalvan-project
-<h2>Name: Priyadarshini.P<br>
+<h3>Name: Priyadarshini.P<br>
 Course:B.TECH-INFORMATION TECHNOLOGY<br>
-College:Aalim Muhammed Salegh College of Engineering</h2>
+College:Aalim Muhammed Salegh College of Engineering</h3>
 
 # Keylogger
 
