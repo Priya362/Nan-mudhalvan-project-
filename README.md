@@ -3,10 +3,6 @@
 Course:B.TECH-INFORMATION TECHNOLOGY<br>
 College:Aalim Muhammed Salegh College of Engineering</h2>
 
-# Problem Statement:
-<p>Phishing Attack Incident in Real Time or online financials scams: <br>
-Examine a real-world case where a phishing attack compromised sensitive information in an organization. Discuss preventative measures and employee training programs to ensure the risks of social engineering attacks. </p>
-
 # Keylogger
 
 This is a simple keylogger implemented in Python using the `pynput` library. It captures keyboard events and logs them to a text file (`key_log.txt`) and a JSON file (`key_log.json`).
